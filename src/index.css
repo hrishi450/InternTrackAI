@@ -2023,7 +2023,7 @@ body {
   color: #1a90ff;
   font-size: 1rem;
   margin-left: 9%;
-  margin-top: 25px;
+  margin-top: 5px;
 }
 
 .Dashboard .left .head-3 .sub-1 h5 {
@@ -2408,7 +2408,7 @@ body {
   }
 
   .Dashboard .left .head-3 .sub-1 h4 {
-    margin-top: 0%;
+    margin-top: 0px;
   }
 
   .prediction-box {
@@ -2700,6 +2700,7 @@ body {
   flex-direction: column;
   padding-top: 2%;
   margin-bottom: 0%;
+  margin-top: 8%;
 }
 
 .last1 i {
@@ -2708,6 +2709,7 @@ body {
   font-family: instrument;
   font-size: 3.5rem;
   font-weight: 500;
+  margin-top: 7%;
 }
 
 .last1 h2 {

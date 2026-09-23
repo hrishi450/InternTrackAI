@@ -20,27 +20,27 @@ function Dashboard() {
                     </div>
                     <div class="head-3">
                         <div class="sub-1">
-                            <h4><Badge size={22} color="#1A90FF" /></h4>
+                            <h4><Badge size={18} color="#1A90FF" /></h4>
                             <h5>Document Verification</h5>
                         </div>
                         <div class="sub-1">
-                            <h4><Badge size={22} color="#1A90FF" /></h4>
+                            <h4><Badge size={18} color="#1A90FF" /></h4>
                             <h5>Report Analyzer</h5>
                         </div>
                         <div class="sub-1">
-                            <h4><Badge size={22} color="#1A90FF" /></h4>
+                            <h4><Badge size={18} color="#1A90FF" /></h4>
                             <h5>Resume ATS</h5>
                         </div>
                         <div class="sub-1">
-                            <h4><Badge size={22} color="#1A90FF" /></h4>
+                            <h4><Badge size={18} color="#1A90FF" /></h4>
                             <h5>Skill Gap</h5>
                         </div>
                         <div class="sub-1">
-                            <h4><Badge size={22} color="#1A90FF" /></h4>
+                            <h4><Badge size={18} color="#1A90FF" /></h4>
                             <h5>Placement prediction</h5>
                         </div>
                         <div class="sub-1">
-                            <h4><Badge size={22} color="#1A90FF" /></h4>
+                            <h4><Badge size={18} color="#1A90FF" /></h4>
                             <h5>AI Chat Assistant</h5>
                         </div>
                     </div>
